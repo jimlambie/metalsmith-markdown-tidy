@@ -1,0 +1,15 @@
+{
+  "name": "metalsmith-markdown-tidy",
+  "description": "A Metalsmith plugin to lint and fix markdown syntax.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "tidy-markdown": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jameslambie@gmail.com"
+}
